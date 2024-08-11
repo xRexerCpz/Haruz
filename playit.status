@@ -9908,16 +9908,16 @@ china-admitted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-verified https://playit.gg/account/settings/account/verify-email
+[2J8[0mplayit (v0.15.13): 1723349540375 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 china-admitted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723349460735 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
+verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 china-admitted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
@@ -9958,6 +9958,21 @@ china-admitted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
 [2J8[0mplayit (v0.15.13): 1723349524143 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+china-admitted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723349539225 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+china-admitted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723349542283 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
